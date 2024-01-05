@@ -46,30 +46,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCZUtX8KKOTR5ctZNwXhOMFtoGVDBZvyMY',
-    appId: '1:852640764391:web:b34420455c8fff7f476d42',
-    messagingSenderId: '852640764391',
-    projectId: 'usermanagement-a17c9',
-    authDomain: 'usermanagement-a17c9.firebaseapp.com',
-    storageBucket: 'usermanagement-a17c9.appspot.com',
-    measurementId: 'G-3D2LBV5N8G',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBhPS7cRO3ahqQ1dVWyVi_lBiufFjXjyaI',
-    appId: '1:852640764391:android:8965e19d53faea68476d42',
-    messagingSenderId: '852640764391',
-    projectId: 'usermanagement-a17c9',
-    storageBucket: 'usermanagement-a17c9.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCzbvKlgsc87JefoLiQXgsVfh6uKZh0oVw',
-    appId: '1:852640764391:ios:ece885e9035a2570476d42',
-    messagingSenderId: '852640764391',
-    projectId: 'usermanagement-a17c9',
-    storageBucket: 'usermanagement-a17c9.appspot.com',
-    iosBundleId: 'com.example.userManagement',
-  );
+ 
 }
